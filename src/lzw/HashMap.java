@@ -1,4 +1,4 @@
-package edu.cmu.andrew.arpitagr;
+package lzw;
 /**
  * Name: Arpit Agrawal
  * Andrew ID: arpitagr

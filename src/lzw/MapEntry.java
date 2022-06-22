@@ -4,7 +4,7 @@
  * Course: Data structures and algorithms
  * Project 5
  */
-package edu.cmu.andrew.arpitagr;
+package lzw;
 
 /**
  * Class representing single entry of the map.

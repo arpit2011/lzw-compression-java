@@ -4,7 +4,7 @@
  * Course: Data structures and algorithms
  * Project 5
  */
-package edu.cmu.andrew.arpitagr;
+package lzw;
 
 
 import java.io.*;
